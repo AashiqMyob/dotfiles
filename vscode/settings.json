@@ -14,5 +14,6 @@
 	"vsicons.projectDetection.disableDetect": true,
 
 	"clojure.leinPath": "/usr/local/bin/lein",
-	"clojure.toolsJar": "/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/lib/tools.jar"
+	"clojure.toolsJar": "/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/lib/tools.jar",
+	"workbench.startupEditor": "newUntitledFile"
 }
