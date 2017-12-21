@@ -35,7 +35,7 @@ cask 'java'
 cask '1password'
 cask 'remote-desktop-manager'
 cask 'spotify'
-cask 'vm-fusion'
+cask 'vmware-fusion'
 cask 'datagrip'
 cask 'postman'
 
